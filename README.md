@@ -1,4 +1,4 @@
-<img width="3999" height="2826" alt="image" src="https://github.com/user-attachments/assets/5e5b87ae-91fd-4e5e-b765-64adbbd65de8" />📷 Live Face & Eye Detection Project
+📷 Live Face & Eye Detection Project
 Yeh ek real-time face aur eye detection project hai jo OpenCV ka istemaal karta hai. Yeh aapke laptop ke webcam ko on karta hai aur live video mein chehron (faces) par hara (green) box aur aankhon (eyes) par neela (blue) box banata hai.
 
 🖼️ Screenshot
