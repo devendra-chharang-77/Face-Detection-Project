@@ -18,7 +18,7 @@ Is repository ko clone (ya download) karo:
 
 Bash
 
-git clone https://github.com/aapka-username/Face-Detection-Project.git
+git clone https://github.com/devendra-chharang-77/Face-Detection-Project
 Project folder mein jaao:
 
 Bash
